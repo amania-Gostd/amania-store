@@ -1,0 +1,19 @@
+html{
+    text-align:center
+}
+header {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: darkgrey;
+    align-items: center;
+  }
+a{
+  display: inline-block;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  color: #ffffff;
+  border: solid 2px #1100ff;
+  border-radius: 3px;
+  transition: .4s;
+}
