@@ -1,5 +1,5 @@
 // 書き換えるURL
-var url = ["(乂'ω')きゅっ", "きゅっ(乂'ω')", "(乂'ω')きゅっ", "└('ω')┘ﾆｬ"];
+var url = ["store"];
 var count = 0;
 // URLを順々に書き換える
 setInterval(function() {
